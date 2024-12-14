@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile Card</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="fontawesome-free-6.6.0-web/css/all.css">
+</head>
+<body>
+    <div class="card">
+
+    <div class="card-img">
+        <img src="MinhAng.jpg" alt="">
+    </div>
+    <h2>
+        Nguyen Minh Anh
+
+    </h2>
+    <p>BuiPhatDat's lover</p>
+    <div class="card-social">
+        
+        <a href="https://web.facebook.com/NMAcutenhat" target="_blank">
+            <i class="fa-brands fa-facebook"></i>
+        </a>
+        
+        <a href="https://www.instagram.com/angelina_minie" target="_blank">
+            <i class="fa-brands fa-instagram"></i>
+        </a>
+    </div>
+    <button> Contact</button>
+
+    </div>
+
+    <div class="icon">
+        <i class="fa-regular fa-heart"></i>
+        <p id="result"></p>
+
+    <script>
+        // Hàm tính số ngày
+        function calculateDays() {
+            const inputDate = new Date('2024-06-02'); // Ngày cụ thể đã định sẵn
+            const today = new Date();
+            const timeDiff = today - inputDate;
+            const daysDiff = Math.floor(timeDiff / (1000 * 60 * 60 * 24));
+            document.getElementById('result').innerText = daysDiff; // Chỉ hiển thị số ngày
+        }
+
+        // Gọi hàm khi trang được tải
+        window.onload = calculateDays();
+    </script>
+    </div>
+
+    <!-- Card Profile -->
+    <div class="card">
+
+        <div class="card-img">
+            <img src="DatBui.jpeg" alt="">
+        </div>
+        <h2>
+            Bui Phat Dat
+    
+        </h2>
+        <p>NguyenMinhAnh's lover</p>
+        <div class="card-social">
+            
+            <a href="https://web.facebook.com/05.buiphatdat" target="_blank">
+                <i class="fa-brands fa-facebook"></i>
+            </a>
+            
+            <a href="https://www.instagram.com/da.tb_
+            " target="_blank">
+                <i class="fa-brands fa-instagram"></i>
+            </a>
+        </div>
+        <button> Contact</button>
+    
+        </div>
+        
+
+    
+</body>
+</html>
+
+        
+
+        
+
+
+
+    
+    
+</body>
+</html>
