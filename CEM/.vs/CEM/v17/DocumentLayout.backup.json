@@ -1,0 +1,250 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WorkSpace\\html\\CEM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77353F37-A94F-4100-8ACB-749259FC79D7}|CEM.csproj|d:\\workspace\\html\\cem\\components\\pages\\login\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77353F37-A94F-4100-8ACB-749259FC79D7}|CEM.csproj|solutionrelative:components\\pages\\login\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77353F37-A94F-4100-8ACB-749259FC79D7}|CEM.csproj|d:\\workspace\\html\\cem\\components\\pages\\login\\quenmatkhau.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77353F37-A94F-4100-8ACB-749259FC79D7}|CEM.csproj|solutionrelative:components\\pages\\login\\quenmatkhau.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77353F37-A94F-4100-8ACB-749259FC79D7}|CEM.csproj|d:\\workspace\\html\\cem\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77353F37-A94F-4100-8ACB-749259FC79D7}|CEM.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77353F37-A94F-4100-8ACB-749259FC79D7}|CEM.csproj|d:\\workspace\\html\\cem\\components\\pages\\login\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77353F37-A94F-4100-8ACB-749259FC79D7}|CEM.csproj|solutionrelative:components\\pages\\login\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77353F37-A94F-4100-8ACB-749259FC79D7}|CEM.csproj|d:\\workspace\\html\\cem\\components\\contact.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77353F37-A94F-4100-8ACB-749259FC79D7}|CEM.csproj|solutionrelative:components\\contact.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77353F37-A94F-4100-8ACB-749259FC79D7}|CEM.csproj|d:\\workspace\\html\\cem\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77353F37-A94F-4100-8ACB-749259FC79D7}|CEM.csproj|solutionrelative:components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77353F37-A94F-4100-8ACB-749259FC79D7}|CEM.csproj|d:\\workspace\\html\\cem\\components\\pages\\search\\danhsachbaigiang\\danhsach.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77353F37-A94F-4100-8ACB-749259FC79D7}|CEM.csproj|solutionrelative:components\\pages\\search\\danhsachbaigiang\\danhsach.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77353F37-A94F-4100-8ACB-749259FC79D7}|CEM.csproj|d:\\workspace\\html\\cem\\components\\pages\\search\\danhsachbaigiang\\capnhatbaigiang.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77353F37-A94F-4100-8ACB-749259FC79D7}|CEM.csproj|solutionrelative:components\\pages\\search\\danhsachbaigiang\\capnhatbaigiang.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77353F37-A94F-4100-8ACB-749259FC79D7}|CEM.csproj|d:\\workspace\\html\\cem\\components\\pages\\add\\baigiang.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77353F37-A94F-4100-8ACB-749259FC79D7}|CEM.csproj|solutionrelative:components\\pages\\add\\baigiang.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77353F37-A94F-4100-8ACB-749259FC79D7}|CEM.csproj|d:\\workspace\\html\\cem\\components\\pages\\search\\danhsachbaocao\\danhsachbaocao.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77353F37-A94F-4100-8ACB-749259FC79D7}|CEM.csproj|solutionrelative:components\\pages\\search\\danhsachbaocao\\danhsachbaocao.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77353F37-A94F-4100-8ACB-749259FC79D7}|CEM.csproj|d:\\workspace\\html\\cem\\services\\minioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77353F37-A94F-4100-8ACB-749259FC79D7}|CEM.csproj|solutionrelative:services\\minioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77353F37-A94F-4100-8ACB-749259FC79D7}|CEM.csproj|d:\\workspace\\html\\cem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{77353F37-A94F-4100-8ACB-749259FC79D7}|CEM.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\html\\CEM\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "D:\\WorkSpace\\html\\CEM\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T16:14:10.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuenMatKhau.razor",
+              "DocumentMoniker": "D:\\WorkSpace\\html\\CEM\\Components\\Pages\\Login\\QuenMatKhau.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Login\\QuenMatKhau.razor",
+              "ToolTip": "D:\\WorkSpace\\html\\CEM\\Components\\Pages\\Login\\QuenMatKhau.razor*",
+              "RelativeToolTip": "Components\\Pages\\Login\\QuenMatKhau.razor*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T16:11:47.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.razor",
+              "DocumentMoniker": "D:\\WorkSpace\\html\\CEM\\Components\\Pages\\Login\\Register.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Login\\Register.razor",
+              "ToolTip": "D:\\WorkSpace\\html\\CEM\\Components\\Pages\\Login\\Register.razor",
+              "RelativeToolTip": "Components\\Pages\\Login\\Register.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T15:58:31.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.razor",
+              "DocumentMoniker": "D:\\WorkSpace\\html\\CEM\\Components\\Pages\\Login\\Login.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Login\\Login.razor",
+              "ToolTip": "D:\\WorkSpace\\html\\CEM\\Components\\Pages\\Login\\Login.razor*",
+              "RelativeToolTip": "Components\\Pages\\Login\\Login.razor*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T15:48:00.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contact.razor",
+              "DocumentMoniker": "D:\\WorkSpace\\html\\CEM\\Components\\Contact.razor",
+              "RelativeDocumentMoniker": "Components\\Contact.razor",
+              "ToolTip": "D:\\WorkSpace\\html\\CEM\\Components\\Contact.razor",
+              "RelativeToolTip": "Components\\Contact.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T15:47:02.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "D:\\WorkSpace\\html\\CEM\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "Components\\Routes.razor",
+              "ToolTip": "D:\\WorkSpace\\html\\CEM\\Components\\Routes.razor",
+              "RelativeToolTip": "Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T15:47:01.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CapNhatBaiGiang.razor",
+              "DocumentMoniker": "D:\\WorkSpace\\html\\CEM\\Components\\Pages\\Search\\DanhSachBaiGiang\\CapNhatBaiGiang.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Search\\DanhSachBaiGiang\\CapNhatBaiGiang.razor",
+              "ToolTip": "D:\\WorkSpace\\html\\CEM\\Components\\Pages\\Search\\DanhSachBaiGiang\\CapNhatBaiGiang.razor",
+              "RelativeToolTip": "Components\\Pages\\Search\\DanhSachBaiGiang\\CapNhatBaiGiang.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T15:44:20.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DanhSach.razor",
+              "DocumentMoniker": "D:\\WorkSpace\\html\\CEM\\Components\\Pages\\Search\\DanhSachBaiGiang\\DanhSach.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Search\\DanhSachBaiGiang\\DanhSach.razor",
+              "ToolTip": "D:\\WorkSpace\\html\\CEM\\Components\\Pages\\Search\\DanhSachBaiGiang\\DanhSach.razor",
+              "RelativeToolTip": "Components\\Pages\\Search\\DanhSachBaiGiang\\DanhSach.razor",
+              "ViewState": "AgIAAEcBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T15:44:14.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Baigiang.razor",
+              "DocumentMoniker": "D:\\WorkSpace\\html\\CEM\\Components\\Pages\\Add\\Baigiang.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Add\\Baigiang.razor",
+              "ToolTip": "D:\\WorkSpace\\html\\CEM\\Components\\Pages\\Add\\Baigiang.razor",
+              "RelativeToolTip": "Components\\Pages\\Add\\Baigiang.razor",
+              "ViewState": "AgIAACsAAAAAAAAAAAAowDwAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T15:31:28.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\WorkSpace\\html\\CEM\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\WorkSpace\\html\\CEM\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-27T08:25:33.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MinioService.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\html\\CEM\\Services\\MinioService.cs",
+              "RelativeDocumentMoniker": "Services\\MinioService.cs",
+              "ToolTip": "D:\\WorkSpace\\html\\CEM\\Services\\MinioService.cs",
+              "RelativeToolTip": "Services\\MinioService.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAwwHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T08:05:52.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DanhSachBaoCao.razor",
+              "DocumentMoniker": "D:\\WorkSpace\\html\\CEM\\Components\\Pages\\Search\\DanhSachBaoCao\\DanhSachBaoCao.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Search\\DanhSachBaoCao\\DanhSachBaoCao.razor",
+              "ToolTip": "D:\\WorkSpace\\html\\CEM\\Components\\Pages\\Search\\DanhSachBaoCao\\DanhSachBaoCao.razor",
+              "RelativeToolTip": "Components\\Pages\\Search\\DanhSachBaoCao\\DanhSachBaoCao.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYBAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T08:05:50.906Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
